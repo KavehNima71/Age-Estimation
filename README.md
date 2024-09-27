@@ -34,10 +34,7 @@ UTKFace dataset is a large-scale face dataset with long age span (range from 0 t
 dataset consists of over 20,000 face images with annotations of age, gender, and ethnicity. The images
 cover large variation in pose, facial expression, illumination, occlusion, resolution, etc. This dataset could
 be used on a variety of tasks, e.g., face detection, age estimation, age progression/regression, landmark
-localization, etc. For more information and download, please refer to the UTKFace
-
-
-Link
+localization, etc. For more information and download, please refer to the [UTKFace]( https://susanqq.github.io/UTKFace/)
 
 
 ### Highlights
